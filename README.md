@@ -1,5 +1,5 @@
-##ALX SE Program:
-> - **C language: ``Low level programming``
->   - Project: Binary trees**
+## ALX SE Program:
+> - **C language:** ``Low level programming``
+>   - **Project: Binary trees**
 
 
