@@ -5,12 +5,12 @@
  * +++++++++++
  * Definition:
  *   The size of a binary tree : is the total number of
- *   nodes present in the tree
+ *   nodes present in this tree.
  * +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  *
- * @tree: pointer to the root node of a binary tree to measure the size.
+ * @tree: pointer to the root node of the binary tree to measure the size.
  *
- * Return: the depth of the node, or 0 if tree is null.
+ * Return: the size of the binary tree, or 0 if tree is null.
  */
 size_t binary_tree_size(const binary_tree_t *tree)
 {
