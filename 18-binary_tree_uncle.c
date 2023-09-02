@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_uncle - function that finds the sibling of a node.
+ * binary_tree_uncle - function that finds the uncle of a node.
  *
  * ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  * | Unlce of a node : is defined as the sibling of the node's parent.|
